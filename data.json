@@ -1,0 +1,151 @@
+{
+    "music": [
+      {
+        "id": "10",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/default.jpg",
+        "name": "Abinet Agonafir - Ho Beye Metahu",
+        "url": "https://amharicmusic.net/assets/amharicmusic/Abinet Agonafir - Ho Beye Metahu.mp3",
+        "year": 2020
+      },
+      {
+        "id": "11",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/default.jpg",
+        "name": "Wendi Tagebignalesh",
+        "url": "https://amharicmusic.net/assets/amharicmusic/Wendi Mak - Tagebignalesh.mp3",
+        "year": 2004
+      },
+      {
+        "id": "13",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/default.jpg",
+        "name": "Yirdaw Tenaw - Serachilign",
+        "url": "https://amharicmusic.net/assets/amharicmusic/Yirdaw Tenaw - Serachilign.mp3",
+        "year": "2015"
+      },
+      {
+        "id": "14",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/default.jpg",
+        "name": "Yared Negu - Yagute",
+        "url": "https://amharicmusic.net/assets/amharicmusic/Yared Negu - Yagute.mp3",
+        "year": 2007
+      },
+      {
+        "id": "15",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/default.jpg",
+        "name": "Debe Alemseged - Min Lihun",
+        "url": "https://amharicmusic.net/assets/amharicmusic/Debe Alemseged - Min Lihun.mp3",
+        "year": 2000
+      },
+      {
+        "id": "17",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/default.jpg",
+        "name": "Alemeye Getachew Weyene Alemeye",
+        "url": "https://amharicmusic.net/assets/amharicmusic/Alemeye Getachew Weyene Alemeye.mp3",
+        "year": "2013"
+      },
+      {
+        "id": "18",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/default.jpg",
+        "name": "Debe Alemseged - Min Lihun",
+        "url": "https://amharicmusic.net/assets/amharicmusic/Debe Alemseged - Min Lihun.mp3",
+        "year": 2017
+      },
+      {
+        "id": "24",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/default.jpg",
+        "name": "Getish Mamo - Enkebaber",
+        "url": "https://amharicmusic.net/assets/amharicmusic/Getish Mamo - Enkebaber.mp3",
+        "year": 2016
+      },
+      {
+        "id": "25",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/teddy-afro.jpg",
+        "name": "Teddy Afro - Ethiopia",
+        "url": "https://amharicmusic.net/assets/amharicmusic/Teddy Afro - Ethiopia.mp3",
+        "year": 2025
+      },
+      {
+        "id": "26",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/teddy-afro.jpg",
+        "name": "Teddy Afro - Ethiopia",
+        "url": "https://amharicmusic.net/assets/amharicmusic/Teddy Afro - Ethiopia.mp3",
+        "year": 2025
+      },
+      {
+        "id": "27",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/default.jpg",
+        "name": "Sami Go - Ethio Shake",
+        "url": "https://amharicmusic.net/assets/amharicmusic/Sami Go - Ethio Shake.mp3",
+        "year": 2025
+      },
+      {
+        "id": "28",
+        "name": "Niway Damtie - Suke Dance",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/default.jpg",
+        "url": "https://amharicmusic.net/assets/amharicmusic/Niway Damtie - Suke Dance.mp3",
+        "year": 2023
+      },
+      {
+        "id": "29",
+        "name": "Ephrem Tamiru - Neyelegn",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/ephrem-tamiru.jpg",
+        "url": "https://amharicmusic.net/assets/amharicmusic/Ephrem-Tamiru-Neyelegn.mp3",
+        "year": 2010
+      },
+      {
+        "id": "30",
+        "name": "Fikreaddis Nekatibeb - Misekir",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/fikradis-nekatibeb.jpg",
+        "url": "https://amharicmusic.net/assets/amharicmusic/Fikreaddis-Nekatibeb-Misekir.mp3",
+        "year": 2012
+      },
+      {
+        "id": "31",
+        "name": "Tsedenia Gebremarkos - Neh Yeliginete",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/fikradis-nekatibeb.jpg",
+        "url": "https://amharicmusic.net/assets/amharicmusic/Tsedenia-Gebremarkos-Neh-Yeliginete.mp3",
+        "year": 2016
+      },
+      {
+        "id": "33",
+        "name": "Netsanet Melese - Bye Bye",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/netsanet-melese.jpg",
+        "url": "https://amharicmusic.net/assets/amharicmusic/NetsanetMelese-ByeBye.mp3",
+        "year": "2010"
+      },
+      {
+        "id": "35",
+        "name": "4444444",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/default.jpg",
+        "url": "nnnnnnnnnn",
+        "year": "1555"
+      },
+      {
+        "id": "36",
+        "name": "GG - Aba Alem Lemine",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/gigi.jpg",
+        "url": "https://amharicmusic.net/assets/amharicmusic/GG-Aba-Alem-Lemine.mp3",
+        "year": "2003"
+      },
+      {
+        "id": "37",
+        "name": "Gossaye Tesfaye - Yeged Sewe",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/gossaye-tesfaye.jpg",
+        "url": "https://amharicmusic.net/assets/amharicmusic/Gossaye-Tesfaye-Yeged-Sewe.mp3",
+        "year": "1996"
+      },
+      {
+        "id": "38",
+        "name": "Abdu Kiar - Des Yilal",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/abdu-kiar.jpg",
+        "url": "https://amharicmusic.net/assets/amharicmusic/Abdu-Kiar-Des-Yilal.mp3",
+        "year": "2012"
+      },
+      {
+        "id": "40",
+        "name": "Kasahun Taye - Ye Agew Liji",
+        "uri": "https://amharicmusic.net/assets/amharicmusic/images/default.jpg",
+        "url": "https://amharicmusic.net/assets/amharicmusic/KasahunTaye-YeAgewLiji.mp3",
+        "year": "2000"
+      }
+    ]
+  }
